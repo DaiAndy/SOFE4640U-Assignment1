@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">assignment111</string>
+    <string name="selected_item">Selected item:</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="mortgage_principle_amount">Mortgage principle amount</string>
+    <string name="money">$</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_number_of_years">Enter Number of Years</string>
+    <string name="amortization_period">Amortization Period</string>
+    <string name="calculateName">Calculate</string>
+    <string name="enter_amount_title">Enter Amount</string>
+    <string name="enter_interest_rate">Enter Interest Rate</string>
+    <string name="moneySign">$</string>
+    <string name="percentSign">%</string>
+    <string name="mortgage_principle_amount_name">Mortgage Principle Amount ($)</string>
+    <string name="interest_rate">Interest Rate (%)</string>
+    <string name="amortization_period_title">Amortization Period</string>
+    <string name="note_all_calculations_are_done_by_monthly">**Note: All calculations are done by monthly**</string>
+    <string name="interest_rate_years">Interest Rate Years</string>
+    <string name="enter_number_of_months">Enter Number of Months</string>
+
+    <string-array name="yearMortgages">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>10</item>
+        <item>25</item>
+    </string-array>
+</resources>
